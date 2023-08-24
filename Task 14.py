@@ -1,4 +1,4 @@
-N = int(input('Введите число N: '))
+N = int(input('Enter the number N: '))
 power_of_two = 1
 
 while power_of_two < N + 1:
